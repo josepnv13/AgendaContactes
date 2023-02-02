@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Vista {
+    // lkjsdaf
     Scanner scanner = new Scanner(System.in);
 
     public void mostrarMenu() {
